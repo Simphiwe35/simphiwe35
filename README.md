@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/Simphiwe35/Building-a-Cybersecurity-Homelab-for-Detection-Monitoring/blob/main/README.md)
    
   - [ Nessus Tutorial for Beginners: Vulnerability Management](https://github.com/joshmadakor1/Algorithms-Practice)
   
