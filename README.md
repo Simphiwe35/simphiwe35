@@ -9,7 +9,7 @@
 
 <h2>📄 certifications</h2>
 
-- [Google Cybersecurity](file:///C:/Users/workhard/Pictures/GoogleCybersecurity_SA.pdf)
+- [Google Cybersecurity](https://github.com/Simphiwe35/cert/blob/main/GoogleCybersecurity_SA.pdf)
 - [SIEM Splunk Hands-On Guide Specialization. EDUCBA](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - ["Python for Cybersecurity. Udemy](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
