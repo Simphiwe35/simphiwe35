@@ -4,7 +4,7 @@
 
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/Simphiwe35/Building-a-Cybersecurity-Homelab-for-Detection-Monitoring/blob/main/README.md)
    
-  - [ Nessus Tutorial for Beginners: Vulnerability Management](https://tryhackme.com/room/splunkdashboardsandreports)
+  - [ TryHackMe PS Eclipse room](https://github.com/Simphiwe35/simphiwe80/blob/main/README.md)
   
 
 <h2>📄 certifications</h2>
