@@ -10,7 +10,7 @@
 <h2>📄 certifications</h2>
 
 - [Google Cybersecurity](https://github.com/Simphiwe35/cert/blob/main/GoogleCybersecurity_SA.pdf)
-- [SIEM Splunk Hands-On Guide Specialization. EDUCBA](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [SIEM Splunk Hands-On Guide Specialization. EDUCBA](https://github.com/Simphiwe35/cert2/blob/main/CourserasSplunk.pdf)
 - ["Python for Cybersecurity. Udemy](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 <h2> 🤳 Connect with me:</h2>
