@@ -11,7 +11,8 @@
 
 - [Google Cybersecurity](https://github.com/Simphiwe35/cert/blob/main/GoogleCybersecurity_SA.pdf)
 - [SIEM Splunk Hands-On Guide Specialization. EDUCBA](https://github.com/Simphiwe35/cert2/blob/main/CourserasSplunk.pdf)
-- [SPlunk completion cert](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [SPlunk completion cert](https://github.com/Simphiwe35/cert3)
+- [SOAR for Enterprise Security](https://github.com/Simphiwe35/cert3)
 
 <h2> 🤳 Connect with me:</h2>
 
